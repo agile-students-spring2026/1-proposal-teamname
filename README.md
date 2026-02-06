@@ -2,21 +2,21 @@
 
 ## Project Title
 
-**Terms, Explained**  
+**Privacy Check**  
 *A mobile web app that clearly shows what popular apps do with your data by using red flags and green flags.*
 
 ## What and Why?
 
 Most people agree to app privacy policies without reading them, not because they don’t care, but because the policies are long, legalistic, and hard to understand. Yet these documents describe exactly how companies collect, use, and share personal data.
 
-**Terms, Explained** is a mobile web application that summarizes and explains app privacy policies in plain language. Instead of overwhelming users with legal text, the app highlights the most important data practices using **red flags** (potential privacy concerns) and **green flags** (privacy-friendly practices).
+**Privacy Check** is a mobile web application that summarizes and explains app privacy policies in plain language. Instead of overwhelming users with legal text, the app highlights the most important data practices using **red flags** (potential privacy concerns) and **green flags** (privacy-friendly practices).
 
 This matters because users deserve transparency. By clearly showing how apps handle personal data, the app helps people make more informed choices about which services they use and trust.
 
 ## For Whom?
 
 The app is designed for:
-- College students and Adultsbe
+- College students and Adults
 - Everyday app users who care about privacy but lack legal or technical expertise
 - Friends, classmates, and peers who want quick, understandable answers
 
